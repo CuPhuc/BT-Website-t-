@@ -31,6 +31,15 @@ Bạn có nhu cầu về lái thử xe ở đây chúng tôi có liên kết v�
 
 ![img](5.5.jpg)
 
+Lúc này bạn sẽ được thấy chuyển qua một trang mới mà chúng tôi liên kết với BMW hỗ trợ bạn việc lái thử xe, lúc này bạn chỉ cần nhập đúng thông tin và đăng kí lái thử.
+
+![img](6.JPG)
+
+Kế bên đăng kí lái thử xe là hai biểu tượng Instagram và Facebook và một hình ảnh nho nhỏ (bạn click vào biểu tượng Instagram bạn có thể truy cập vào Instagram của BMW Việt Nam, còn biểu tượng Facebook khi bạn click vào bạn có thể truy cập vào Facebook của BMW Việt Nam, còn hình ảnh nho nhỏ, bạn click vào bạn có thể truy cập vào trang chính của BMW Việt Nam).
+</p>
+
+<center>CẢM ƠN THẦY ĐÃ XEM BÀI CỦA EM !!!</center>
+
 
 
 
