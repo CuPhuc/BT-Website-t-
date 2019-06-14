@@ -34,7 +34,7 @@ Lúc này bạn sẽ được thấy chuyển qua một trang mới mà chúng t
 
 ![img](6.JPG)
 
-Kế bên đăng kí lái thử xe là hai biểu tượng Instagram và Facebook và một hình ảnh nho nhỏ (bạn click vào biểu tượng Instagram bạn có thể truy cập vào Instagram của BMW Việt Nam, còn biểu tượng Facebook khi bạn click vào bạn có thể truy cập vào Facebook của BMW Việt Nam, còn hình ảnh nho nhỏ, bạn click vào bạn có thể truy cập vào trang chính của BMW Việt Nam).
+Kế bên đăng kí lái thử xe là hai biểu tượng Instagram và Facebook và một hình ảnh nho nhỏ (bạn click vào biểu tượng Instagram bạn có thể truy cập vào Instagram của BMW Việt Nam, còn biểu tượng Facebook khi bạn click vào bạn có thể truy cập vào Facebook của BMW Việt Nam, còn hình ảnh nho nhỏ, bạn click vào bạn có thể truy cập vào trang chính thức của BMW Việt Nam).
 </p>
 
 CẢM ƠN THẦY ĐÃ XEM BÀI CỦA EM !!!
