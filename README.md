@@ -1,13 +1,12 @@
 # BT-Website-t- Gia Trung 
 Website Ô tô
-<p> Chào mừng bạn đến với Website Gia Trung Auto, Gia Trung Auto là một trong những nhà phân phối ủy quyền của hãng xe danh tiếng BMW của 
-Cộng Hòa Liên Bang Đức tại Việt Nam.
+<p> Chào mừng bạn đến với Website Gia Trung Auto, Gia Trung Auto là một trong những nhà phân phối chính hãng ủy quyền của hãng xe danh tiếng BMW của Cộng Hòa Liên Bang Đức tại Việt Nam.
 Giao diện Website tối giản nhưng cũng khá đẹp mắt giúp quý khách có thể dễ dàng truy cập và tìm xem và mua được những dòng xe mình thích
 Giao diện chính của trang web giới thiệu về Gia Trung Auto.(Giao diện bao gồm các trang như Gia Trung Auto, Album ảnh, Đặt xe, Đăng nhập, Tham khảo).
   
 ![img](1.JPG)
 
-Nếu bạn muốn xem những hình ảnh đẹp về xe bạn có thể click chuột vào trang Album ảnh lúc này trang sẽ được chuyển qua trang mới chứa bao gồm các hình ảnh đẹp mắt về xe.
+Nếu bạn muốn xem những hình ảnh đẹp về xe bạn có thể click chuột vào trang Album ảnh lúc này trang sẽ được chuyển qua trang mới chứa bao gồm các hình ảnh đẹp mắt về những dòng xe BMW cực đẹp.
 
 ![img](2.JPG)
 
@@ -27,7 +26,7 @@ Nếu bạn muốn tham khảo về giá xe cũng như về các dòng xe mà Gi
 
 ![img](5.JPG)
 
-Bạn có nhu cầu về lái thử xe ở đây chúng tôi có liên kết với BMW Việt Nam hỗ trợ bạn lái thử xe và chọn cho mình dòng xe phù hợp với mình nhất có thể, bạn có thể rê chuột vào biểu tượng đăng kí lái thử phía bên dưới (bạn có thể xem ảnh bên dưới).
+Bạn có nhu cầu về lái thử xe ở đây chúng tôi có liên kết với BMW Việt Nam hỗ trợ bạn lái thử giúp bạn có những trải nghiệm và những cung bật cảm xúc thực nhất về xe và cũng như chiếc xe bạn muốn sở hữu để làm bạn đồng hành trên mọi chặng đường và để bạn có thể chọn cho mình dòng xe phù hợp với mình nhất có thể, bạn có thể rê chuột vào biểu tượng đăng kí lái thử phía bên dưới (bạn có thể xem ảnh bên dưới).
 
 ![img](5.5.jpg)
 
@@ -38,7 +37,7 @@ Lúc này bạn sẽ được thấy chuyển qua một trang mới mà chúng t
 Kế bên đăng kí lái thử xe là hai biểu tượng Instagram và Facebook và một hình ảnh nho nhỏ (bạn click vào biểu tượng Instagram bạn có thể truy cập vào Instagram của BMW Việt Nam, còn biểu tượng Facebook khi bạn click vào bạn có thể truy cập vào Facebook của BMW Việt Nam, còn hình ảnh nho nhỏ, bạn click vào bạn có thể truy cập vào trang chính của BMW Việt Nam).
 </p>
 
-<center>CẢM ƠN THẦY ĐÃ XEM BÀI CỦA EM !!!</center>
+CẢM ƠN THẦY ĐÃ XEM BÀI CỦA EM !!!
 
 
 
